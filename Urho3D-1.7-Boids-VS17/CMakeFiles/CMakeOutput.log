@@ -1,0 +1,1727 @@
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine version 15.8.168+ga8fba1ebd7 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/10/2018 11:38:36.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\3.9.1\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\3.9.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\Hostx86\x86\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\3.9.1\CompilerIdC\CompilerIdC.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.43
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/3.9.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine version 15.8.168+ga8fba1ebd7 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/10/2018 11:38:39.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\3.9.1\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\3.9.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\Hostx86\x86\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\3.9.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.61
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/3.9.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_020a0.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.168+ga8fba1ebd7 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/10/2018 11:38:42.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_020a0.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_020a0.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_020a0.dir\Debug\cmTC_020a0.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_020a0.dir\Debug\cmTC_020a0.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_020a0.dir\Debug\\" /Fd"cmTC_020a0.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\testCCompiler.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_020a0.dir\Debug\\" /Fd"cmTC_020a0.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\testCCompiler.c"
+  
+  testCCompiler.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_020a0.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_020a0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_020a0.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_020a0.dir\Debug\testCCompiler.obj
+  cmTC_020a0.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_020a0.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_020a0.dir\Debug\cmTC_020a0.tlog\unsuccessfulbuild".
+  Touching "cmTC_020a0.dir\Debug\cmTC_020a0.tlog\cmTC_020a0.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_020a0.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:03.05
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_db38f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.168+ga8fba1ebd7 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/10/2018 11:38:45.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_db38f.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_db38f.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_db38f.dir\Debug\cmTC_db38f.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_db38f.dir\Debug\cmTC_db38f.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_db38f.dir\Debug\\" /Fd"cmTC_db38f.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.9\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_db38f.dir\Debug\\" /Fd"cmTC_db38f.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.9\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_db38f.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_db38f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_db38f.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_db38f.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_db38f.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_db38f.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_db38f.dir\Debug\cmTC_db38f.tlog\unsuccessfulbuild".
+  Touching "cmTC_db38f.dir\Debug\cmTC_db38f.tlog\cmTC_db38f.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_db38f.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.44
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_63e7f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.168+ga8fba1ebd7 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/10/2018 11:38:48.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_63e7f.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_63e7f.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_63e7f.dir\Debug\cmTC_63e7f.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_63e7f.dir\Debug\cmTC_63e7f.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_63e7f.dir\Debug\\" /Fd"cmTC_63e7f.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_63e7f.dir\Debug\\" /Fd"cmTC_63e7f.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  testCXXCompiler.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_63e7f.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_63e7f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_63e7f.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_63e7f.dir\Debug\testCXXCompiler.obj
+  cmTC_63e7f.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_63e7f.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_63e7f.dir\Debug\cmTC_63e7f.tlog\unsuccessfulbuild".
+  Touching "cmTC_63e7f.dir\Debug\cmTC_63e7f.tlog\cmTC_63e7f.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_63e7f.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.82
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_cab2a.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.168+ga8fba1ebd7 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/10/2018 11:38:52.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_cab2a.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_cab2a.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_cab2a.dir\Debug\cmTC_cab2a.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_cab2a.dir\Debug\cmTC_cab2a.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_cab2a.dir\Debug\\" /Fd"cmTC_cab2a.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.9\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_cab2a.dir\Debug\\" /Fd"cmTC_cab2a.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.9\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_cab2a.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_cab2a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_cab2a.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_cab2a.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_cab2a.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_cab2a.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_cab2a.dir\Debug\cmTC_cab2a.tlog\unsuccessfulbuild".
+  Touching "cmTC_cab2a.dir\Debug\cmTC_cab2a.tlog\cmTC_cab2a.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_cab2a.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.97
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_af416.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.168+ga8fba1ebd7 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/10/2018 11:38:55.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_af416.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_af416.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_af416.dir\Debug\cmTC_af416.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_af416.dir\Debug\cmTC_af416.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_af416.dir\Debug\\" /Fd"cmTC_af416.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\feature_tests.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_af416.dir\Debug\\" /Fd"cmTC_af416.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\feature_tests.cxx"
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_af416.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_af416.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_af416.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_af416.dir\Debug\feature_tests.obj
+  cmTC_af416.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_af416.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_af416.dir\Debug\cmTC_af416.tlog\unsuccessfulbuild".
+  Touching "cmTC_af416.dir\Debug\cmTC_af416.tlog\cmTC_af416.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_af416.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:06.81
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_b1c61.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.168+ga8fba1ebd7 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/10/2018 11:39:02.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_b1c61.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_b1c61.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_b1c61.dir\Debug\cmTC_b1c61.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_b1c61.dir\Debug\cmTC_b1c61.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_b1c61.dir\Debug\\" /Fd"cmTC_b1c61.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\feature_tests.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_b1c61.dir\Debug\\" /Fd"cmTC_b1c61.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\feature_tests.cxx"
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_b1c61.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_b1c61.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_b1c61.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_b1c61.dir\Debug\feature_tests.obj
+  cmTC_b1c61.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_b1c61.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_b1c61.dir\Debug\cmTC_b1c61.tlog\unsuccessfulbuild".
+  Touching "cmTC_b1c61.dir\Debug\cmTC_b1c61.tlog\cmTC_b1c61.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_b1c61.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.24
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_f0a38.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.168+ga8fba1ebd7 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/10/2018 11:39:05.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_f0a38.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_f0a38.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_f0a38.dir\Debug\cmTC_f0a38.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_f0a38.dir\Debug\cmTC_f0a38.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_f0a38.dir\Debug\\" /Fd"cmTC_f0a38.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\feature_tests.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_f0a38.dir\Debug\\" /Fd"cmTC_f0a38.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\feature_tests.cxx"
+  feature_tests.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_f0a38.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_f0a38.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_f0a38.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_f0a38.dir\Debug\feature_tests.obj
+  cmTC_f0a38.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_f0a38.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_f0a38.dir\Debug\cmTC_f0a38.tlog\unsuccessfulbuild".
+  Touching "cmTC_f0a38.dir\Debug\cmTC_f0a38.tlog\cmTC_f0a38.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_f0a38.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:03.17
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_7377b.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.168+ga8fba1ebd7 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/10/2018 11:39:09.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_7377b.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_7377b.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_7377b.dir\Debug\cmTC_7377b.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_7377b.dir\Debug\cmTC_7377b.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_7377b.dir\Debug\\" /Fd"cmTC_7377b.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\feature_tests.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_7377b.dir\Debug\\" /Fd"cmTC_7377b.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\feature_tests.cxx"
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_7377b.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_7377b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_7377b.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_7377b.dir\Debug\feature_tests.obj
+  cmTC_7377b.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_7377b.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_7377b.dir\Debug\cmTC_7377b.tlog\unsuccessfulbuild".
+  Touching "cmTC_7377b.dir\Debug\cmTC_7377b.tlog\cmTC_7377b.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_7377b.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:03.41
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+Determining if the include file d3dcompiler.h exists passed with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_63514.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.168+ga8fba1ebd7 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/10/2018 11:39:34.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_63514.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_63514.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_63514.dir\Debug\cmTC_63514.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_63514.dir\Debug\cmTC_63514.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_63514.dir\Debug\\" /Fd"cmTC_63514.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_63514.dir\Debug\\" /Fd"cmTC_63514.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_63514.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_63514.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_63514.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_63514.dir\Debug\CheckIncludeFile.obj
+  cmTC_63514.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_63514.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_63514.dir\Debug\cmTC_63514.tlog\unsuccessfulbuild".
+  Touching "cmTC_63514.dir\Debug\cmTC_63514.tlog\cmTC_63514.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_63514.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.30
+
+
+Determining if the include file d3d9.h exists passed with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_fbd1f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.168+ga8fba1ebd7 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/10/2018 11:39:36.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_fbd1f.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_fbd1f.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_fbd1f.dir\Debug\cmTC_fbd1f.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_fbd1f.dir\Debug\cmTC_fbd1f.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_fbd1f.dir\Debug\\" /Fd"cmTC_fbd1f.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_fbd1f.dir\Debug\\" /Fd"cmTC_fbd1f.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_fbd1f.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_fbd1f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_fbd1f.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_fbd1f.dir\Debug\CheckIncludeFile.obj
+  cmTC_fbd1f.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_fbd1f.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_fbd1f.dir\Debug\cmTC_fbd1f.tlog\unsuccessfulbuild".
+  Touching "cmTC_fbd1f.dir\Debug\cmTC_fbd1f.tlog\cmTC_fbd1f.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_fbd1f.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.79
+
+
+Determining if the include file d3d11.h exists passed with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_a38de.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.168+ga8fba1ebd7 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/10/2018 11:39:38.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_a38de.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_a38de.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_a38de.dir\Debug\cmTC_a38de.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_a38de.dir\Debug\cmTC_a38de.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_a38de.dir\Debug\\" /Fd"cmTC_a38de.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_a38de.dir\Debug\\" /Fd"cmTC_a38de.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_a38de.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_a38de.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_a38de.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_a38de.dir\Debug\CheckIncludeFile.obj
+  cmTC_a38de.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_a38de.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_a38de.dir\Debug\cmTC_a38de.tlog\unsuccessfulbuild".
+  Touching "cmTC_a38de.dir\Debug\cmTC_a38de.tlog\cmTC_a38de.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_a38de.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:05.17
+
+
+Determining if the include file ddraw.h exists passed with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_4e960.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.168+ga8fba1ebd7 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/10/2018 11:39:44.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_4e960.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_4e960.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_4e960.dir\Debug\cmTC_4e960.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_4e960.dir\Debug\cmTC_4e960.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_4e960.dir\Debug\\" /Fd"cmTC_4e960.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_4e960.dir\Debug\\" /Fd"cmTC_4e960.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_4e960.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_4e960.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_4e960.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_4e960.dir\Debug\CheckIncludeFile.obj
+  cmTC_4e960.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_4e960.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_4e960.dir\Debug\cmTC_4e960.tlog\unsuccessfulbuild".
+  Touching "cmTC_4e960.dir\Debug\cmTC_4e960.tlog\cmTC_4e960.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_4e960.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.70
+
+
+Determining if the include file dsound.h exists passed with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_20bc3.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.168+ga8fba1ebd7 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/10/2018 11:39:47.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_20bc3.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_20bc3.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_20bc3.dir\Debug\cmTC_20bc3.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_20bc3.dir\Debug\cmTC_20bc3.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_20bc3.dir\Debug\\" /Fd"cmTC_20bc3.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_20bc3.dir\Debug\\" /Fd"cmTC_20bc3.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_20bc3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_20bc3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_20bc3.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_20bc3.dir\Debug\CheckIncludeFile.obj
+  cmTC_20bc3.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_20bc3.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_20bc3.dir\Debug\cmTC_20bc3.tlog\unsuccessfulbuild".
+  Touching "cmTC_20bc3.dir\Debug\cmTC_20bc3.tlog\cmTC_20bc3.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_20bc3.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.09
+
+
+Determining if the include file dinput.h exists passed with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_5cdfd.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.168+ga8fba1ebd7 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/10/2018 11:39:48.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_5cdfd.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_5cdfd.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_5cdfd.dir\Debug\cmTC_5cdfd.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_5cdfd.dir\Debug\cmTC_5cdfd.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_5cdfd.dir\Debug\\" /Fd"cmTC_5cdfd.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_5cdfd.dir\Debug\\" /Fd"cmTC_5cdfd.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  CheckIncludeFile.cxx
+  
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_5cdfd.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_5cdfd.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_5cdfd.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_5cdfd.dir\Debug\CheckIncludeFile.obj
+  cmTC_5cdfd.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_5cdfd.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_5cdfd.dir\Debug\cmTC_5cdfd.tlog\unsuccessfulbuild".
+  Touching "cmTC_5cdfd.dir\Debug\cmTC_5cdfd.tlog\cmTC_5cdfd.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_5cdfd.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.55
+
+
+Determining if the include file dxgi.h exists passed with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_f01f6.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.168+ga8fba1ebd7 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/10/2018 11:39:50.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_f01f6.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_f01f6.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_f01f6.dir\Debug\cmTC_f01f6.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_f01f6.dir\Debug\cmTC_f01f6.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_f01f6.dir\Debug\\" /Fd"cmTC_f01f6.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_f01f6.dir\Debug\\" /Fd"cmTC_f01f6.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_f01f6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_f01f6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_f01f6.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_f01f6.dir\Debug\CheckIncludeFile.obj
+  cmTC_f01f6.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_f01f6.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_f01f6.dir\Debug\cmTC_f01f6.tlog\unsuccessfulbuild".
+  Touching "cmTC_f01f6.dir\Debug\cmTC_f01f6.tlog\cmTC_f01f6.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_f01f6.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.50
+
+
+Determining if the include file xaudio2.h exists passed with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_a0312.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.168+ga8fba1ebd7 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/10/2018 11:39:52.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_a0312.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_a0312.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_a0312.dir\Debug\cmTC_a0312.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_a0312.dir\Debug\cmTC_a0312.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_a0312.dir\Debug\\" /Fd"cmTC_a0312.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_a0312.dir\Debug\\" /Fd"cmTC_a0312.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_a0312.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_a0312.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_a0312.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_a0312.dir\Debug\CheckIncludeFile.obj
+  cmTC_a0312.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_a0312.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_a0312.dir\Debug\cmTC_a0312.tlog\unsuccessfulbuild".
+  Touching "cmTC_a0312.dir\Debug\cmTC_a0312.tlog\cmTC_a0312.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_a0312.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.20
+
+
+Determining if files windows.h;xinput.h exist passed with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_0a2ab.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.168+ga8fba1ebd7 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/10/2018 11:39:54.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_0a2ab.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_0a2ab.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_0a2ab.dir\Debug\cmTC_0a2ab.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_0a2ab.dir\Debug\cmTC_0a2ab.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0a2ab.dir\Debug\\" /Fd"cmTC_0a2ab.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0a2ab.dir\Debug\\" /Fd"cmTC_0a2ab.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  CheckIncludeFiles.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_0a2ab.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_0a2ab.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_0a2ab.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_0a2ab.dir\Debug\CheckIncludeFiles.obj
+  cmTC_0a2ab.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_0a2ab.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_0a2ab.dir\Debug\cmTC_0a2ab.tlog\unsuccessfulbuild".
+  Touching "cmTC_0a2ab.dir\Debug\cmTC_0a2ab.tlog\cmTC_0a2ab.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_0a2ab.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.66
+
+
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: /DWIN32;/D_WINDOWS;/W3
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine version 15.8.169+g1ccb72aefa for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 01/11/2018 11:13:08.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\3.12.3\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\3.12.3\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\Hostx86\x86\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\3.12.3\CompilerIdC\CompilerIdC.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.84
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/3.12.3/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: /DWIN32;/D_WINDOWS;/W3;/GR;/EHsc
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine version 15.8.169+g1ccb72aefa for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 01/11/2018 11:13:10.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\3.12.3\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\3.12.3\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\Hostx86\x86\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\3.12.3\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.75
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/3.12.3/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_d5b58.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.169+g1ccb72aefa for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 01/11/2018 11:13:11.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_d5b58.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_d5b58.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_d5b58.dir\Debug\cmTC_d5b58.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_d5b58.dir\Debug\cmTC_d5b58.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d5b58.dir\Debug\\" /Fd"cmTC_d5b58.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\testCCompiler.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26730 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d5b58.dir\Debug\\" /Fd"cmTC_d5b58.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\testCCompiler.c"
+  testCCompiler.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_d5b58.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_d5b58.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_d5b58.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_d5b58.dir\Debug\testCCompiler.obj
+  cmTC_d5b58.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_d5b58.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_d5b58.dir\Debug\cmTC_d5b58.tlog\unsuccessfulbuild".
+  Touching "cmTC_d5b58.dir\Debug\cmTC_d5b58.tlog\cmTC_d5b58.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_d5b58.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.24
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_b35b6.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.169+g1ccb72aefa for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 01/11/2018 11:13:13.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_b35b6.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_b35b6.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_b35b6.dir\Debug\cmTC_b35b6.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_b35b6.dir\Debug\cmTC_b35b6.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b35b6.dir\Debug\\" /Fd"cmTC_b35b6.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26730 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b35b6.dir\Debug\\" /Fd"cmTC_b35b6.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCCompilerABI.c"
+  CMakeCCompilerABI.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_b35b6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_b35b6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_b35b6.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_b35b6.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_b35b6.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_b35b6.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_b35b6.dir\Debug\cmTC_b35b6.tlog\unsuccessfulbuild".
+  Touching "cmTC_b35b6.dir\Debug\cmTC_b35b6.tlog\cmTC_b35b6.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_b35b6.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.80
+
+
+
+
+Detecting C [] compiler features compiled with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_ba89a.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.169+g1ccb72aefa for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 01/11/2018 11:13:14.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_ba89a.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_ba89a.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_ba89a.dir\Debug\cmTC_ba89a.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_ba89a.dir\Debug\cmTC_ba89a.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ba89a.dir\Debug\\" /Fd"cmTC_ba89a.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\feature_tests.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26730 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ba89a.dir\Debug\\" /Fd"cmTC_ba89a.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\feature_tests.c"
+  feature_tests.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_ba89a.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_ba89a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_ba89a.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_ba89a.dir\Debug\feature_tests.obj
+  cmTC_ba89a.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_ba89a.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_ba89a.dir\Debug\cmTC_ba89a.tlog\unsuccessfulbuild".
+  Touching "cmTC_ba89a.dir\Debug\cmTC_ba89a.tlog\cmTC_ba89a.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_ba89a.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.77
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_variadic_macros
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_1050f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.169+g1ccb72aefa for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 01/11/2018 11:13:15.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_1050f.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_1050f.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_1050f.dir\Debug\cmTC_1050f.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_1050f.dir\Debug\cmTC_1050f.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_1050f.dir\Debug\\" /Fd"cmTC_1050f.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26730 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_1050f.dir\Debug\\" /Fd"cmTC_1050f.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  testCXXCompiler.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_1050f.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_1050f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_1050f.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_1050f.dir\Debug\testCXXCompiler.obj
+  cmTC_1050f.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_1050f.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_1050f.dir\Debug\cmTC_1050f.tlog\unsuccessfulbuild".
+  Touching "cmTC_1050f.dir\Debug\cmTC_1050f.tlog\cmTC_1050f.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_1050f.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.84
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_9a21c.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.169+g1ccb72aefa for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 01/11/2018 11:13:16.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_9a21c.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_9a21c.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_9a21c.dir\Debug\cmTC_9a21c.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_9a21c.dir\Debug\cmTC_9a21c.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_9a21c.dir\Debug\\" /Fd"cmTC_9a21c.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26730 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_9a21c.dir\Debug\\" /Fd"cmTC_9a21c.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCXXCompilerABI.cpp"
+  CMakeCXXCompilerABI.cpp
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_9a21c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_9a21c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_9a21c.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_9a21c.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_9a21c.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_9a21c.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_9a21c.dir\Debug\cmTC_9a21c.tlog\unsuccessfulbuild".
+  Touching "cmTC_9a21c.dir\Debug\cmTC_9a21c.tlog\cmTC_9a21c.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_9a21c.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.83
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_fc89c.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.169+g1ccb72aefa for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 01/11/2018 11:13:17.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_fc89c.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_fc89c.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_fc89c.dir\Debug\cmTC_fc89c.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_fc89c.dir\Debug\cmTC_fc89c.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_fc89c.dir\Debug\\" /Fd"cmTC_fc89c.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\feature_tests.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26730 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_fc89c.dir\Debug\\" /Fd"cmTC_fc89c.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\feature_tests.cxx"
+  feature_tests.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_fc89c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_fc89c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_fc89c.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_fc89c.dir\Debug\feature_tests.obj
+  cmTC_fc89c.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_fc89c.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_fc89c.dir\Debug\cmTC_fc89c.tlog\unsuccessfulbuild".
+  Touching "cmTC_fc89c.dir\Debug\cmTC_fc89c.tlog\cmTC_fc89c.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_fc89c.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.80
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: /DWIN32;/D_WINDOWS;/W3
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 10/01/2019 09:33:51.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\3.12.3\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\3.12.3\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\3.12.3\CompilerIdC\CompilerIdC.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.50
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/3.12.3/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: /DWIN32;/D_WINDOWS;/W3;/GR;/EHsc
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 10/01/2019 09:33:53.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\3.12.3\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\3.12.3\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\3.12.3\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.72
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/3.12.3/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_1a8bd.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 10/01/2019 09:33:54.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_1a8bd.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_1a8bd.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_1a8bd.dir\Debug\cmTC_1a8bd.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_1a8bd.dir\Debug\cmTC_1a8bd.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1a8bd.dir\Debug\\" /Fd"cmTC_1a8bd.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\testCCompiler.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27025.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1a8bd.dir\Debug\\" /Fd"cmTC_1a8bd.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\testCCompiler.c"
+  testCCompiler.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_1a8bd.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_1a8bd.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_1a8bd.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_1a8bd.dir\Debug\testCCompiler.obj
+  cmTC_1a8bd.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_1a8bd.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_1a8bd.dir\Debug\cmTC_1a8bd.tlog\unsuccessfulbuild".
+  Touching "cmTC_1a8bd.dir\Debug\cmTC_1a8bd.tlog\cmTC_1a8bd.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_1a8bd.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.19
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_01a34.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 10/01/2019 09:33:55.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_01a34.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_01a34.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_01a34.dir\Debug\cmTC_01a34.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_01a34.dir\Debug\cmTC_01a34.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_01a34.dir\Debug\\" /Fd"cmTC_01a34.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27025.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_01a34.dir\Debug\\" /Fd"cmTC_01a34.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCCompilerABI.c"
+  CMakeCCompilerABI.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_01a34.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_01a34.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_01a34.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_01a34.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_01a34.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_01a34.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_01a34.dir\Debug\cmTC_01a34.tlog\unsuccessfulbuild".
+  Touching "cmTC_01a34.dir\Debug\cmTC_01a34.tlog\cmTC_01a34.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_01a34.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.73
+
+
+
+
+Detecting C [] compiler features compiled with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_9bbce.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 10/01/2019 09:33:56.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_9bbce.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_9bbce.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_9bbce.dir\Debug\cmTC_9bbce.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_9bbce.dir\Debug\cmTC_9bbce.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9bbce.dir\Debug\\" /Fd"cmTC_9bbce.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\feature_tests.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27025.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9bbce.dir\Debug\\" /Fd"cmTC_9bbce.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\feature_tests.c"
+  feature_tests.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_9bbce.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_9bbce.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_9bbce.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_9bbce.dir\Debug\feature_tests.obj
+  cmTC_9bbce.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_9bbce.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_9bbce.dir\Debug\cmTC_9bbce.tlog\unsuccessfulbuild".
+  Touching "cmTC_9bbce.dir\Debug\cmTC_9bbce.tlog\cmTC_9bbce.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_9bbce.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.71
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_variadic_macros
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_088f8.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 10/01/2019 09:33:57.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_088f8.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_088f8.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_088f8.dir\Debug\cmTC_088f8.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_088f8.dir\Debug\cmTC_088f8.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_088f8.dir\Debug\\" /Fd"cmTC_088f8.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27025.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_088f8.dir\Debug\\" /Fd"cmTC_088f8.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  testCXXCompiler.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_088f8.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_088f8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_088f8.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_088f8.dir\Debug\testCXXCompiler.obj
+  cmTC_088f8.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_088f8.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_088f8.dir\Debug\cmTC_088f8.tlog\unsuccessfulbuild".
+  Touching "cmTC_088f8.dir\Debug\cmTC_088f8.tlog\cmTC_088f8.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_088f8.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.75
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_c2be7.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 10/01/2019 09:33:58.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_c2be7.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_c2be7.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_c2be7.dir\Debug\cmTC_c2be7.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_c2be7.dir\Debug\cmTC_c2be7.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c2be7.dir\Debug\\" /Fd"cmTC_c2be7.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27025.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c2be7.dir\Debug\\" /Fd"cmTC_c2be7.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCXXCompilerABI.cpp"
+  CMakeCXXCompilerABI.cpp
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_c2be7.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_c2be7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_c2be7.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_c2be7.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_c2be7.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_c2be7.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_c2be7.dir\Debug\cmTC_c2be7.tlog\unsuccessfulbuild".
+  Touching "cmTC_c2be7.dir\Debug\cmTC_c2be7.tlog\cmTC_c2be7.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_c2be7.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.72
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_d37ed.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 10/01/2019 09:33:59.
+Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_d37ed.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_d37ed.dir\Debug\".
+  Creating directory "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_d37ed.dir\Debug\cmTC_d37ed.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_d37ed.dir\Debug\cmTC_d37ed.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_d37ed.dir\Debug\\" /Fd"cmTC_d37ed.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\feature_tests.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27025.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_d37ed.dir\Debug\\" /Fd"cmTC_d37ed.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\feature_tests.cxx"
+  feature_tests.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_d37ed.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_d37ed.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Urho3D/Urho3D-1.7-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_d37ed.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_d37ed.dir\Debug\feature_tests.obj
+  cmTC_d37ed.vcxproj -> C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_d37ed.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_d37ed.dir\Debug\cmTC_d37ed.tlog\unsuccessfulbuild".
+  Touching "cmTC_d37ed.dir\Debug\cmTC_d37ed.tlog\cmTC_d37ed.lastbuildstate".
+Done Building Project "C:\Urho3D\Urho3D-1.7-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_d37ed.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.71
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates

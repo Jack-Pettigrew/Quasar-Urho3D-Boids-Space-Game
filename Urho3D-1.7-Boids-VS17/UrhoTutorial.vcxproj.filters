@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Urho3D\Urho3D-1.7-Boids\BoidSet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Urho3D\Urho3D-1.7-Boids\Character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Urho3D\Urho3D-1.7-Boids\CharacterDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Urho3D\Urho3D-1.7-Boids\Grid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Urho3D\Urho3D-1.7-Boids\MissleSet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Urho3D\Urho3D-1.7-Boids\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Urho3D\Urho3D-1.7-Boids\Rocket.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Urho3D\Urho3D-1.7-Boids\Touch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Urho3D-1.7-Boids\Boids.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Urho3D\Urho3D-1.7-Boids\BoidSet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Urho3D\Urho3D-1.7-Boids\Boids.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Urho3D\Urho3D-1.7-Boids\Character.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Urho3D\Urho3D-1.7-Boids\CharacterDemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Urho3D\Urho3D-1.7-Boids\Grid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Urho3D\Urho3D-1.7-Boids\MissleSet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Urho3D\Urho3D-1.7-Boids\Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Urho3D\Urho3D-1.7-Boids\Rocket.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Urho3D\Urho3D-1.7-Boids\Sample.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Urho3D\Urho3D-1.7-Boids\Touch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Urho3D\Urho3D-1.7-Boids\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Urho3D\Urho3D-1.7-Boids\bin\CoreData">
+      <Filter>Resource Dirs</Filter>
+    </None>
+    <None Include="C:\Urho3D\Urho3D-1.7-Boids\bin\Data">
+      <Filter>Resource Dirs</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F25EC1AB-1765-370E-8B4F-F886841376C6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Dirs">
+      <UniqueIdentifier>{6D08B8CE-A2C7-3AA3-A9BE-7E694E38AB03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A4CFB56A-2F87-3EF0-9E14-61C40E7B77A9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
